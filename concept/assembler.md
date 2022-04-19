@@ -14,7 +14,7 @@
 
 Код на языке ассемблера содержит такие инструкции как ADD, MUL, MUX, SUB, DIV, MOV и другие.
 
-Язык ассемблера является платформенно-зависимым.
+Язык ассемблера является платформенно-зависимым языком низкого уровня.
 
 [Источник.](https://www.geeksforgeeks.org/language-processors-assembler-compiler-and-interpreter/)
 
