@@ -10,6 +10,8 @@ a mark or character used as a conventional representation of an object, function
 
 ## Связь с другими понятиями
 
+[знак](https://github.com/Dememedp/yapis-course/blob/main/concept/Sign.md)
+
 ## Ссылка на библиографию
 
 [Oxford Learner's Dictionaries](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Oxford-OxfordLD-Source.md)
