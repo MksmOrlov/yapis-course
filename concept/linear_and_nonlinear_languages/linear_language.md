@@ -8,7 +8,7 @@
 
 ## Связь с другими понятиями
 
-* линейная_грамматика (порожден)
+[линейная_грамматика](https://github.com/okhlopkovd/yapis-course/blob/main/concept/linear_and_nonlinear_languages/linear_grammar.md)
 
 ## Библиография
 
