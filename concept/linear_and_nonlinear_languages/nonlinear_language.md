@@ -8,7 +8,7 @@
 
 ## Связь с другими понятиями
 
-* нелинейная_грамматика (порожден)
+[нелинейная_грамматика](https://github.com/okhlopkovd/yapis-course/blob/main/concept/linear_and_nonlinear_languages/nonlinear_grammar.md)
 
 ## Библиография
 
