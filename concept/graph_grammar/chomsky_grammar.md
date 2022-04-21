@@ -12,9 +12,11 @@ S - стартовый начальный символ.
 
 ## Связь с другими понятиями
 
-терминал
-нетерминал
-правило
+[нетерминал](https://github.com/okhlopkovd/yapis-course/blob/main/concept/linear_and_nonlinear_languages/nonterminal.md)
+
+[правило](https://github.com/okhlopkovd/yapis-course/blob/main/concept/linear_and_nonlinear_languages/rule.md)
+
+[терминал](https://github.com/okhlopkovd/yapis-course/blob/main/concept/linear_and_nonlinear_languages/terminal.md)
 
 ## Библиография
 
