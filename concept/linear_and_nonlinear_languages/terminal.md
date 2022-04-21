@@ -8,7 +8,7 @@
 
 ## Связь с другими понятиями
 
-символ
+[cимвол](https://github.com/Dememedp/yapis-course/blob/main/concept/Symbol.md)
 
 ## Библиография
 
