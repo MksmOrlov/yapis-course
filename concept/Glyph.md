@@ -10,7 +10,7 @@ any kind of purposeful mark, such as a simple vertical line incised on a buildin
 
 ## Связь с другими понятиями
 
-[знак]()
+[знак](https://github.com/Dememedp/yapis-course/blob/main/concept/Sign.md)
 
 [символ](https://github.com/Dememedp/yapis-course/blob/main/concept/Symbol.md)
 
