@@ -8,7 +8,7 @@
 
 ## Связь с другими понятиями
 
-терминал
+[терминал](https://github.com/okhlopkovd/yapis-course/blob/main/concept/linear_and_nonlinear_languages/terminal.md)
 
 ## Библиография
 
