@@ -12,7 +12,7 @@ any kind of purposeful mark, such as a simple vertical line incised on a buildin
 
 [знак]()
 
-[символ]()
+[символ](https://github.com/Dememedp/yapis-course/blob/main/concept/Symbol.md)
 
 ## Ссылка на библиографию
 
