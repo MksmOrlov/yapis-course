@@ -10,7 +10,7 @@
 
 [множество](https://github.com/Dememedp/yapis-course/blob/main/concept/Set.md)
 
-[слово](https://github.com/Dememedp/yapis-course/blob/main/concept/Calculation.md)
+[слово](https://github.com/Dememedp/yapis-course/blob/main/concept/Formal_Word.md)
 
 [алфавит символов](https://github.com/Dememedp/yapis-course/blob/main/concept/Symbol_Alphabet.md)
 
