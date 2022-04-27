@@ -39,3 +39,5 @@
 [Компилятор](compiler.md)
 
 [Однопроходный компилятор](single_pass_compiler.md)
+
+[Исходный код](source_code.md)
