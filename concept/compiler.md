@@ -21,7 +21,7 @@
 
 
 ## Процесс компиляции
-<img src="images/compilation_process.png"></img>
+![](images/compilation_process.png)
 
 [Источник (Глава 1. Раздел 7).](../bibliography/Sebesta-Concepts-book.md)
 

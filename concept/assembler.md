@@ -30,10 +30,12 @@
 
 ## Пример
 Промежуточный код
-<img src="images/intermediate_code.png"></img>
+
+![](images/intermediate_code.png)
 
 Промежуточный код, транслированный в машинный код
-<img src="images/assembler_code.png"></img>
+
+![](images/assembler_code.png)
 
 [Источник (Глава 1. Раздел 2).](../bibliography/Aho-Compilers-book.md)
 

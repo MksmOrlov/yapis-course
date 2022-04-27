@@ -44,7 +44,7 @@
 
 
 ## Пример на языке Python
-<img src="images/python_bytecode.png"></img>
+![](images/python_bytecode.jpg)
 
 [Источник.](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D1%82-%D0%BA%D0%BE%D0%B4)
 

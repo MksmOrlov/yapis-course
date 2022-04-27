@@ -34,8 +34,10 @@
 [Компилятор](compiler.md)
 
 
-## Пример
-<img src="images/translator.png"></img>
+## Пример трансляции
+Трасляция инструкции присваивания
+
+![](images/translator.jpg)
 
 [Источник (Глава 1. Раздел 1).](../bibliography/Aho-Compilers-book.md)
 
