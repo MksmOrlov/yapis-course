@@ -39,8 +39,6 @@
 
 [Семантический анализатор](semantic_analyzer.md)
 
-[Исходный код](source_code.md)
-
 [Генератор целевого кода](target_code_generator.md)
 
 [Логическая ошибка](logical_error.md)

@@ -22,4 +22,4 @@
 
 [Семантическая ошибка](semantic_error.md)
 
-[Синтаксис языка программирования](progamming_language_syntax.md)
+[Синтаксис языка программирования](programming_language_syntax.md)

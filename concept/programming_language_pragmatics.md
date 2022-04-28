@@ -10,6 +10,6 @@
 
 
 ## Связанные понятия
-[Семантика языка программирования](proramming_language_semantics.md)
+[Семантика языка программирования](programming_language_semantics.md)
 
-[Синтаксис языка программирования](proramming_language_syntax.md)
+[Синтаксис языка программирования](programming_language_syntax.md)
