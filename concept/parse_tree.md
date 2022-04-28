@@ -36,7 +36,7 @@
 ## Связанные понятия
 [Синтаксический анализатор](syntactic_analyzer.md)
 
-[Нетерминальный символ](nonterminal_symbol.md)
+[Нетерминальный символ](non-terminal_symbol.md)
 
 [Терминальный символ](terminal_symbol.md)
 

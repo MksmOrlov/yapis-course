@@ -23,6 +23,6 @@
 ## Связанные понятия
 [Лексический анализатор](lexical_analyzer.md)
 
-[Нетерминальный символ](nonterminal_symbol.md)
+[Нетерминальный символ](non-terminal_symbol.md)
 
 [Токен](token.md)

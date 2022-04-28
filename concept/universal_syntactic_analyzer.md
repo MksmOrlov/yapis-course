@@ -10,7 +10,7 @@
 - Алгоритм Кока-Янгера-Касами (Cocke-Younger-Kasami) 
 - Алгоритм Эрли (Earley)
 
-[Источник. (Глава 4. Раздел 1).](../bibliography/Aho-Compilers-book.md)
+[Источник.(Глава 4. Раздел 1.)](../bibliography/Aho-Compilers-book.md)
 
 
 ## Достоинство
