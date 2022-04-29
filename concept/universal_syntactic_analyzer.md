@@ -25,6 +25,6 @@
 ## Связанные понятия
 [Cинтаксический анализатор](syntactic_analyzer.md)
 
-[Нисходящий синтаксический анализатор](bottom_up_syntactic_analyzer.md)
+[Нисходящий синтаксический анализатор](top_down_syntactic_analyzer.md)
 
-[Восходящий синтаксический анализатор](top_down_syntactic_analyzer.md)
+[Восходящий синтаксический анализатор](bottom_up_syntactic_analyzer.md)

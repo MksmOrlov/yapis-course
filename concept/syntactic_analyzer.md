@@ -39,8 +39,8 @@
 
 ## Классификация синтаксических анализаторов
 - [универсальный синтаксический анализатор](universal_syntactic_analyzer.md);
-- [восходящий синтаксический анализатор](top_down_syntactic_analyzer.md);
-- [нисходящий синтаксический анализатор](bottom_up_syntactic_analyzer.md).
+- [восходящий синтаксический анализатор](bottom_up_syntactic_analyzer.md);
+- [нисходящий синтаксический анализатор](top_down_syntactic_analyzer.md).
 
 
 ## Связанные понятия
