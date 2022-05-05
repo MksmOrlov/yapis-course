@@ -53,6 +53,8 @@ procedure COMPLETER((B → γ•, x), k)
 
 ## Связь с другими понятиями
 
+1. [контекстно_свободная_грамматика](context_free_grammar.md)
+
 ## Библиография
 
 1. J. Earley. An efficient context-free parsing algorithm
