@@ -12,4 +12,4 @@
 
 ## Ссылка на библиографию
 
-[ISO/IEC 2382-1:1993, Information technology — Vocabulary — Part 1: Fundamental terms:]()
+[ISO/IEC 2382-1:1993, Information technology — Vocabulary](https://github.com/Dememedp/yapis-course/blob/main/bibliography/ISO-Systems-Vocabulary.md)
