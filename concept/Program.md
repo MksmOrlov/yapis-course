@@ -16,4 +16,4 @@
 
 ## Ссылка на библиографию
 
-[ISO/IEC/IEEE 24765:2010 Systems and software engineering — Vocabulary]()
+[ISO/IEC/IEEE 24765:2010 Systems and software engineering — Vocabulary](https://github.com/Dememedp/yapis-course/blob/main/bibliography/ISO-Systems-Vocabulary.md)
