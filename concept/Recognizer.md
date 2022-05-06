@@ -12,4 +12,4 @@
 
 ## Ссылка на библиографию
 
-[Л.М. Невдяев. Телекоммуникационные технологии. Англо-русский толковый словарь-справочник. Под редакцией Ю.М. Горностаева. Москва, 2002](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Nevdyaev-Telecommunication-book.md)
+[Телекоммуникационные технологии](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Nevdyaev-Telecommunication-book.md)
