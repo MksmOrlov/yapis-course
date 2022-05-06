@@ -18,4 +18,4 @@ non-empty set of symbols/glyphs, typically thought of as representing letters, c
 
 ## Ссылка на библиографию
 
-[Mathematical Logic]()
+[Mathematical Logic](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Ebbinghaus-Mathematical-book.md)
