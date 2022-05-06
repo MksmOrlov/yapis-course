@@ -12,4 +12,4 @@
 
 ## Ссылка на библиографию
 
-[Structures, Not Strings: Linguistics as Part of the Cognitive Sciences]()
+[Structures, Not Strings: Linguistics as Part of the Cognitive Sciences](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Martin-Structures-book.md)
