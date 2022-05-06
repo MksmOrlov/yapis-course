@@ -10,4 +10,4 @@
 
 ## Ссылка на библиографию
 
-[Математической энциклопедии. Д. М. Смирнов]()
+[Математической энциклопедии. Д. М. Смирнов](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Smirnov-Course-book.md)
