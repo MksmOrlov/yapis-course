@@ -49,4 +49,4 @@ n = 7 : ABAABABAABAABABAABABAABAABABAABAAB
 
 ## Ссылка на библиографию
 
-[Grzegorz Rozenberg, Arto Salomaa. The mathematical theory of L systems. — New York: Academic Press, 1980]()
+[Grzegorz Rozenberg, Arto Salomaa. The mathematical theory of L systems. — New York: Academic Press, 1980](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Aho-Compilers-book.md)
