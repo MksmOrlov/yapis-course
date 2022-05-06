@@ -76,4 +76,4 @@ class LinkedList {
 
 ## Библиография
 
-1. Grady Booch. Object-Oriented Analysis and Design with Applications.
+1. John C. Mitchell, Concepts in programming languages, Cambridge University Press, 2003

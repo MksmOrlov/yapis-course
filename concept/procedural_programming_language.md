@@ -46,4 +46,4 @@ end.
 
 ## Библиография
 
-1. Joseph C. Giarratano, Gary Riley, Expert Systems Principles and Programming
+1. Gerardus Blokdyk. Procedural Programming A Complete Guide.
