@@ -12,4 +12,4 @@
 
 ## Ссылка на библиографию
 
-[Гладкий А. В. Формальные грамматики и языки.]()
+[Гладкий А. В. Формальные грамматики и языки.](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Gladkiy-Formal-book.md)
