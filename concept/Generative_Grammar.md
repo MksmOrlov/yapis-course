@@ -25,6 +25,8 @@
 
 ## Связь с другими понятиями
 
+[грамматика](https://github.com/Dememedp/yapis-course/blob/main/concept/Grammar.md)
+
 [генеративная лингвистика](https://github.com/Dememedp/yapis-course/blob/main/concept/Generative_Linguistics.md)
 
 [синтаксис](https://github.com/Dememedp/yapis-course/blob/main/concept/Syntax.md)
