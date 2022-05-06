@@ -10,6 +10,16 @@
 
 длина правой части должна быть не меньше длины левой части
 
+### Пример
+
+Следующая грамматика задает контекстно-зависимый язык {a^n b^n c^n,n>0}:
+
+1. S -> aSBC | abC
+2. CB -> BC
+3. bB -> bb
+4. bC -> bc
+5. cC -> cc
+
 ## Связь с другими понятиями
 
 [порождающая грамматика](https://github.com/Dememedp/yapis-course/blob/main/concept/Generative_Grammar.md)
