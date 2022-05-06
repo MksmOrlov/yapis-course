@@ -29,4 +29,4 @@
 
 ## Ссылка на библиографию
 
-[Лотман Ю. М. Люди и знаки]()
+[Лотман Ю. М. Люди и знаки](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Lotman-People-book.md)
