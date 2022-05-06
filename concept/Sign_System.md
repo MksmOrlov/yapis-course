@@ -14,4 +14,4 @@
 
 ## Ссылка на библиографию
 
-[Dances with bees: exploring the relevance of the study of animal communication to informatics]()
+[Dances with bees: exploring the relevance of the study of animal communication to informatics](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Beynon-Dancing-Paper.md)
