@@ -9,7 +9,7 @@
 
 Положение генератора кода в модели [компилятора](compiler_1.md):
 
-![code generation](../images/code%20generation.png)
+![code generation](images/code%20generation.png)
 
 
 ## Связь с другими понятиями

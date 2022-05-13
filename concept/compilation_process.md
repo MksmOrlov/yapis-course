@@ -6,7 +6,7 @@
 фаз, каждая из которых преобразует одно из представлений исходной программы в другое. Типичное разложение 
 [компилятора](compiler_1.md) на фазы приведено на рисунке:
 
-![compilation process](../images/compilation%20process.png)
+![compilation process](images/compilation%20process.png)
 
 ## Связь с другими понятиями
 [компилятор](compiler_1.md)

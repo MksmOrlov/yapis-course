@@ -8,7 +8,7 @@
 ## Примечание
 Блок-схема алгоритма обращения к страничной памяти (виртуальная память):
 
-![ paged memory allocation](../images/paged%20memory%20allocation.png)
+![ paged memory allocation](images/paged%20memory%20allocation.png)
 
 Блоки 1 - 7 -аппаратная реализация;
 Блоки 8 - 17 -программная реализация.

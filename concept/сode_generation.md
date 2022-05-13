@@ -14,7 +14,7 @@ High Level IR – высокоуровневое представление пр
 ## Пример
 Промежуточная генерация кода:
 
-![сode generation](../images/intermediate_code.png)
+![сode generation](images/intermediate_code.png)
 
 ## Связь с другими понятиями
 [компилятор](compiler_1.md)

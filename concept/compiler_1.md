@@ -22,7 +22,7 @@
 
 Общая схема работы компилятора:
 
-![compiler](../images/compiler.png)
+![compiler](images/compiler.png)
 
 ## Примеры компилируемых языков
 - C

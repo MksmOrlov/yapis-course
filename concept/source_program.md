@@ -6,7 +6,7 @@
 ## Пример
 Место исходной программы в структуре [компилятора](compiler_1.md):
 
-![source program](../images/compiler_org.png)
+![source program](images/compiler_org.png)
 
 ## Связь с другими понятиями
 [виртуальные машины](virtual_machines_1.md)

@@ -8,11 +8,11 @@ DALVIK – реализованная google виртуальная машина
 
 Если мы хотим получить более детальную информацию о том как процесс получает экземпляр [виртуальной машины](virtual_machines_1.md), мы должны начать рассмотрение с момента загрузки ядра Linux в Android:
 
-![androidboot](../images/androidboot.png)
+![androidboot](images/androidboot.png)
 
 Dalvik отличается от обычной [виртуальной машины Java](java_virtual_machine.md) тем, что она выполняет байткод Dalvik, отличный от обычного java байткода. Промежуточный шаг между Java компилятором и Dalvik VM, на котором происходит преобразование Java байткода в байткод Dalvik берет на себя DEX компилятор. Раличие между JVM и Dalvik проилюстрировано на следующей диаграмме:
 
-![dalvikoperation](../images/dalvikoperation.png)
+![dalvikoperation](images/dalvikoperation.png)
 
 DEX компилятор преобразует .class файлы java в .dex файлы, которые имеют меньший размер и оптимизированы для Dalvik VM.
 
