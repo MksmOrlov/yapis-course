@@ -4,7 +4,7 @@
 ## Определение
 Двумерная машина Тьюринга вместо одномерной ленты головка [машины Тьюринга](turing_machine.md) может перемещаться по неограниченному во всех направлениях двумерному полю ячеек.
 ## Пример
-![two-dimensional turing machine](../images/tm2d_memory.svg)
+![two-dimensional turing machine](images/tm2d_memory.svg)
 
 
 ## Связь с другими понятиями

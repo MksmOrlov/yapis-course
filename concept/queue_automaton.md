@@ -9,7 +9,7 @@
 
 Последовательная память — очередь символов:
 
-![queue automaton](../images/qa_memory.svg)
+![queue automaton](images/qa_memory.svg)
 
 
 ## Связь с другими понятиями

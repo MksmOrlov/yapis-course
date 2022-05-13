@@ -9,9 +9,10 @@
 
 Клеточный автомат на основе прямоугольной двумерной сетки:
 
-![cellular automaton](../images/2d_cell_automaton.svg)
+![cellular automaton](images/2d_cell_automaton.svg)
 
 ## Связь с другими понятиями
 [машина Тьюринга](turing_machine.md)
 ## Ссылка на библиографию
 [polykarpov-programming-book{2}](../bibliography/polykarpov-programming-book%7B2%7D.md)
+

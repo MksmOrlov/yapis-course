@@ -13,7 +13,7 @@ cтранично-сегментное распределение памяти (
 ## Пример
 Схема преобразования виртуального адреса в физический для данного метода.
 
-![segment-page memory allocation](../images/segment-page%20memory%20allocation.png)
+![segment-page memory allocation](images/segment-page%20memory%20allocation.png)
 ## Связь с другими понятиями
 [управление памятью](memory_management.md)
 
