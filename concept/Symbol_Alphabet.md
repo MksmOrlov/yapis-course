@@ -4,17 +4,15 @@
 
 ## Определение
 
-non-empty set of symbols/glyphs, typically thought of as representing letters, characters, or digits
+множество атомарных (неделимых) символов какого-либо формального языка. Чаще всего алфавит рассматривается как непустое конечное множество.
 
-непустое множество символов/глифов, обычно обозначающих буквы, знаки или цифры
+### Пример
 
+алфавит {.,-} лежит в основе азбуки Морзе, алфавит {0,1} — общепринятый набор символов для представления информации в компьютерах
+ 
 ## Связь с другими понятиями
 
-[множество](https://github.com/Dememedp/yapis-course/blob/main/concept/Set.md)
-
 [символ](https://github.com/Dememedp/yapis-course/blob/main/concept/Symbol.md)
-
-[глиф](https://github.com/Dememedp/yapis-course/blob/main/concept/Glyph.md)
 
 ## Ссылка на библиографию
 
