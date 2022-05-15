@@ -32,8 +32,8 @@ q0 - начальное состояние; F - множество заключ�
 
 ## Связь с другими понятиями
 
-[знак](https://github.com/Dememedp/yapis-course/blob/main/concept/Sign.md)
+[формальный язык](https://github.com/Dememedp/yapis-course/blob/main/concept/Formal_Language.md)
 
 ## Ссылка на библиографию
 
-[Oxford Learner's Dictionaries](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Oxford-OxfordLD-Source.md)
+[Белоусов А. И., Ткачев С. Б. Дискретная математика. — М.: МГТУ, 2006. — С. 460—587.](https://github.com/Dememedp/yapis-course/blob/main/bibliography/Oxford-OxfordLD-Source.md)
