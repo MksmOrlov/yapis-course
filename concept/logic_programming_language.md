@@ -24,7 +24,7 @@ xor(A,B) :- or(A,B), nand(A,B).
 
 ## Связь с другими понятиями
 
-1. [язык_программирования](programming_language.md)
+1. [язык_программирования](programming_language_1.md)
 2. [декларативный_язык_программирования](declarative_programming_language.md)
 
 ## Библиография

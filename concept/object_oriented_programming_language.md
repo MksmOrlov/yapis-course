@@ -71,7 +71,7 @@ class LinkedList {
 
 ## Связь с другими понятиями
 
-1. [язык_программирования](programming_language.md)
+1. [язык_программирования](programming_language_1.md)
 2. [императивный_язык_программирования](imperative_programming_language.md)
 
 ## Библиография

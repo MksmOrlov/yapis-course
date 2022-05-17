@@ -43,7 +43,7 @@ int fact(int n)
 
 ## Связь с другими понятиями
 
-1. [язык_программирования](programming_language.md)
+1. [язык_программирования](programming_language_1.md)
 
 ## Библиография
 
